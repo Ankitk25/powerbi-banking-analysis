@@ -22,7 +22,7 @@ You can view or download the exported dashboard from this repository:
 
 ## Live Dashboard Link
 
-[View Interactive Dashboard](https://app.powerbi.com/links/aSzpzxnuvh?ctid=b5f86f36-3df0-46d1-beb7-50fa19e96f79&pbi_source=linkShare)
+[View Interactive Dashboard](https://app.powerbi.com/links/aSzpzxnuvh?ctid=b5f86f36-3df0-46d1-beb7-50fa19e96f79&pbi_source=linkShare) - Must Sign-In in PowerBI service
 
 ## Files Included
 - `Dashboard 1.pdf`
