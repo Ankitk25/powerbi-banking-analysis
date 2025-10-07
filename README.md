@@ -21,12 +21,12 @@ You can view or download the exported dashboard from this repository:
 [Dashboard PDF](Dashboard%201.pdf)
 
 ## Live Dashboard Link
-*(If you publish it to Power BI Service, paste the link below)*  
+
 [View Interactive Dashboard]([https://app.powerbi.com/view?r=YOUR-LINK-HERE](https://app.powerbi.com/links/aSzpzxnuvh?ctid=b5f86f36-3df0-46d1-beb7-50fa19e96f79&pbi_source=linkShare))
 
 ## Files Included
-- `Dashboard 1.pdf` — Exported report for resume/portfolio.
-- `Banking_Analysis_Dashboard.pbix` — Power BI project file (optional if file size allows).
+- `Dashboard 1.pdf`
+- `Banking_Analysis_Dashboard.pbix`
 
 **Ankit Kumar**  
 Email: ankit707.25@gmail.com  
